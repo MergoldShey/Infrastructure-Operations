@@ -2,8 +2,7 @@
 
 ```diff
 
-+ Fully Done
-- By Author:
+- Author:
 + Shiphrah
 
 ```
